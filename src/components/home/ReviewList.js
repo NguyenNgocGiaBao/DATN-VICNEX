@@ -23,7 +23,8 @@ const reviews = [
       "img/product/tesst.png",
       "img/product/tesst.png",
     ],
-  },{
+  },
+  {
     avatar: "img/product/lcw.png",
     name: "Lee Chong Wei",
     rating: "★★★★★",
@@ -33,7 +34,8 @@ const reviews = [
       "img/product/tesst.png",
       "img/product/tesst.png",
     ],
-  },{
+  },
+  {
     avatar: "img/product/lcw.png",
     name: "Lee Chong Wei",
     rating: "★★★★★",
@@ -43,7 +45,8 @@ const reviews = [
       "img/product/tesst.png",
       "img/product/tesst.png",
     ],
-  },{
+  },
+  {
     avatar: "img/product/lcw.png",
     name: "Lee Chong Wei",
     rating: "★★★★★",
@@ -53,7 +56,8 @@ const reviews = [
       "img/product/tesst.png",
       "img/product/tesst.png",
     ],
-  },{
+  },
+  {
     avatar: "img/product/lcw.png",
     name: "Lee Chong Wei",
     rating: "★★★★★",
